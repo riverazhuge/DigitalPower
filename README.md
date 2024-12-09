@@ -1,2 +1,2 @@
 # DigitalPower
-中文注释代码
+#Translate classic books and production documents on digital power supply and write some articles
